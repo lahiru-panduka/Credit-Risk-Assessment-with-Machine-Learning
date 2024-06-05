@@ -1,6 +1,3 @@
-# Credit-Risk-Modelling
-This repository explores building machine learning models to predict credit default risk. It aims to assess a borrower's probability of defaulting on a loan repayment. The project investigates various techniques to improve model accuracy and gain insights into loan performance.
-
 # Credit Risk Assessment with Machine Learning
 This project investigates the use of machine learning to predict customer defaults on credit card loans. Financial institutions face significant challenges in managing credit risk, and machine learning offers a powerful approach to assess customer creditworthiness and inform lending decisions.
 
