@@ -45,3 +45,8 @@ This project demonstrates the potential of machine learning for credit risk asse
 - Implement dynamic models that can adapt to evolving market conditions.
 
 This project serves as a starting point for developing robust machine learning models to support credit risk assessment and empower financial institutions with informed lending decisions.
+
+## Contact for Further Collaboration
+
+I am interested in exploring further collaborations in the field of machine learning applications for finance. If you have any projects or ideas that align with this area, feel free to reach out to me via email: lahirupanduka007@gmail.com
+LinkedIn : https://www.linkedin.com/in/alahakoon-794866165/
